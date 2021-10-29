@@ -1,0 +1,13 @@
+{
+    "name": "Test PKG",
+    "version": "0.0.1",
+    "description": "An other package to code the query feature of LPM",
+    "author": "EMPTY",
+    "license": "MIT",
+    "main": "empty.lc",
+    "lc-version": "1.0.0",
+    "dependencies": {
+        "python-api": "1.0.3"
+    },
+    "last_updated": "2021-10-29"
+}
