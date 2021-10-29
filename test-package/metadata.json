@@ -4,7 +4,7 @@
     "description": "A test package for lambda code",
     "author": "Mrinmoy Haloi",
     "license": "MIT",
-    "main": "test.lc",
+    "main": "hello.lc",
     "lc-version": "1.0.0",
     "dependencies": {
         "python-api": "1.0.3"
